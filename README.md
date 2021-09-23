@@ -29,3 +29,5 @@ _Definir quantidades de equipamentos e as taxas de equipamentos por 100.000 habi
 - Preparação de dados no Power Query
 - Elaboração do dashboard no Power BI
 - Testes funcionais
+
+Mais detalhes: https://medium.com/@danielpereira8720/data-analytics-data-viz-projeto-sobre-invent%C3%A1rio-de-equipamentos-do-sus-2019-f6ca80a7ac41

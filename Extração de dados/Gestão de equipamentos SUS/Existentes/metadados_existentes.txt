@@ -1,0 +1,16 @@
+Relação de equipamentos existentes (segundo municípios) por granularidades diferentes (tipos de gestão):
+
+- Dupla
+- Estadual
+- Municipal
+
+CNES - Recursos Físicos - Equipamentos - Brasil
+Equipamentos em Uso por Município e Equipamento
+Tipo de Gestão: Municipal
+Grupo de Equipamentos: Equipamentos de Diagnostico por Imagem, Equipamentos para Manutencao da Vida, Equipamentos por Metodos Graficos, Equipamentos por Metodos Opticos, Outros Equipamentos
+Período:
+
+
+Fonte de pesquisa: Ministério da Saúde - Cadastro Nacional dos Estabelecimentos de Saúde do Brasil - CNES
+
+Link: http://tabnet.datasus.gov.br/cgi/tabcgi.exe?cnes/cnv/equipobr.def

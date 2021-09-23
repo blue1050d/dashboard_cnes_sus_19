@@ -18,3 +18,14 @@ _Qual é o saldo positivo e negativo/variação de equipamentos existentes por m
 _Qual é o saldo positivo e negativo/variação de equipamentos em uso por município (gestão estadual)?_
 
 _Definir quantidades de equipamentos e as taxas de equipamentos por 100.000 habitantes para ambas as gestões, no ano de 2019._
+
+## Etapas
+
+- Extração de dados
+- Pré-processamento
+- Construção de tabelas
+- Queries 
+- Definição de DSN no ODBC
+- Preparação de dados no Power Query
+- Elaboração do dashboard no Power BI
+- Testes funcionais

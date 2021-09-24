@@ -14,14 +14,15 @@ _Definir quantidades de equipamentos e as taxas de equipamentos por 100.000 habi
 
 ## Etapas
 
-- Extração de dados
-- Pré-processamento
-- Construção de tabelas
-- Queries 
-- Definição de DSN no ODBC
-- Preparação de dados no Power Query
-- Elaboração do dashboard no Power BI
-- Testes funcionais
+1ª etapa (24/07 a 25/07) - Extração dos dados
+
+2ª etapa (25/07 a 31/07) - Pré-processamento dos dados
+
+3ª etapa (01/08 a 09/08) - Construção de tabelas/Queries 
+
+4ª etapa (10/08 a 13/08) - Definição de DSN no ODBC/Preparação de dados no Power Query
+
+5ª etapa (14/08 a 18/08) - Elaboração do dashboard no Power BI/Testes funcionais
 
 ## Ferramentas utilizadas
 

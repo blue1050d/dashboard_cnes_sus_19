@@ -1,5 +1,5 @@
 ## Definção de DSN no ODBC para conexão no Power Query
-#### Antes de criar conexão direta no Power Query, deve-se definir a DSN de usuário no ODBC para a extensão do SQLite 3, a fim de acessar o banco de dados.
+#### Antes de criar conexão direta no Power Query, deve-se definir a DSN de usuário e sistema no ODBC para a extensão do SQLite 3, a fim de acessar o banco de dados.
 <a name="subtitulo_d"></a>
 
   Criação de uma nova DSN de usuário para identificar a fonte da conexão
@@ -16,3 +16,5 @@
   
   Fonte de dados criado para efetuar obtenção de dados no Power Query.
   ![image](https://user-images.githubusercontent.com/83841974/134349803-83f5204c-8d9c-40ca-bd0d-628ebe648944.png)
+  
+  OBS: os passos para criar DSN de sistema é o mesmo do usuário.

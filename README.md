@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-O projeto visa quantificar equipamentos de diagnóstico por imagem da rede SUS, distribuídas nas gestões municipais e estaduais dos 5570 municípios do Brasil, em 2019. Também permite fazer cruzamentos entre os dados dos aparelhos existentes (devidamente cadastrados no CNES) e os em uso, cuja diferença demonstram os ativos ociosos, e apontam inúmeros fatores, sobretudo as limitações e irregularidades na rede pública.
+O projeto visa quantificar equipamentos de diagnóstico por imagem da rede SUS, distribuídas nas gestões municipais e estaduais dos 5570 municípios + DF do Brasil, em 2019. Também permite fazer cruzamentos entre os dados dos aparelhos existentes (devidamente cadastrados no CNES) e os em uso, cuja diferença demonstram os ativos ociosos, e apontam inúmeros fatores, sobretudo as limitações e irregularidades na rede pública.
 
 Os requisitos desse projeto são:
 

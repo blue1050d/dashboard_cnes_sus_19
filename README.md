@@ -29,6 +29,4 @@ _Definir quantidades de equipamentos e as taxas de equipamentos por 100.000 habi
 ![image](https://user-images.githubusercontent.com/83841974/134596228-eebb1e8c-56e7-4c9d-b9bb-15bfae188a49.png) ![image](https://user-images.githubusercontent.com/83841974/134596323-dd3d6999-49ac-45aa-897b-4d45a3463955.png) ![image](https://user-images.githubusercontent.com/83841974/134596372-1038d7ef-c989-4d91-bc4e-ff31ac48aa51.png) ![image](https://user-images.githubusercontent.com/83841974/134596416-ed9bdd03-48de-463c-99f1-32fe24859b59.png) 
 ![image](https://user-images.githubusercontent.com/83841974/134596152-137343b7-15a4-4019-ae85-fb372a80f48e.png) 
 
-Mais informações: https://medium.com/@danielpereira8720/data-analytics-data-viz-projeto-sobre-invent%C3%A1rio-de-equipamentos-do-sus-2019-f6ca80a7ac41
-
 
